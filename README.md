@@ -1,4 +1,4 @@
-# IAutomation
+# iAutomation
 Automate a 3-axis CNC machine into recoginizing and manipulating objects by using voice commands.  
 Based upon a project from 2018-2020 [link](https://hogeschoolpxl-my.sharepoint.com/:f:/g/personal/20003024_pxl_be/Eh_Gm1bqqJJFtWL-4Yo711cBKq86BFr4poktMXvdnd_gCQ?e=mmkN3A)
 
