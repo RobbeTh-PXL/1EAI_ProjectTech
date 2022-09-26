@@ -8,7 +8,7 @@ Based upon a project from 2018-2020 [link](https://hogeschoolpxl-my.sharepoint.c
 - [ ] PLC Programming (Beckoff)
 - [ ] Toolholder Design (Mechanical Design)
 
-##Index
+## Index
 
 1. [Progress & Notes](#progress--notes)
     1.1. [Machine Vision (AI)](#machine-vision-ai)
