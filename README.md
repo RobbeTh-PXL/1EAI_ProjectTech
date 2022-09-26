@@ -9,6 +9,7 @@ Based upon a project from 2018-2020 [link](https://hogeschoolpxl-my.sharepoint.c
 - [ ] Toolholder Design (Mechanical Design)
 
 ##Index
+
 1. [Progress & Notes](#progress--notes)
     1.1. [Machine Vision (AI)](#machine-vision-ai)
     1.2. [Voice Recognition (AI)](#voice-recognition-ai)
@@ -57,10 +58,3 @@ Notes:
 - Beckhoff automation
   - Leander
   - Ruben
-
-1. [Machine Vision (AI)](#machine-vision-ai)
-2. [Voice Recognition (AI)](#voice-recognition-ai)
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Fourth item 
