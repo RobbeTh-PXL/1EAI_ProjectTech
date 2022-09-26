@@ -58,8 +58,8 @@ Notes:
   - Leander
   - Ruben
 
-1. First item
-2. Second item
+1. [Machine Vision (AI)](#machine-vision-ai)
+2. [Voice Recognition (AI)](#voice-recognition-ai)
 3. Third item
     1. Indented item
     2. Indented item
