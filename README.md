@@ -11,10 +11,10 @@ Based upon a project from 2018-2020 [link](https://hogeschoolpxl-my.sharepoint.c
 ## Index
 
 1. [Progress & Notes](#progress--notes)
-    1.1. [Machine Vision (AI)](#machine-vision-ai)
-    1.2. [Voice Recognition (AI)](#voice-recognition-ai)
-    1.3. [PLC Programming (Beckoff)](#plc-programming-beckoff)
-    1.4. [Toolholder Design (Mechanical Design)](#toolholder-design-mechanical-design)
+    1. [Machine Vision (AI)](#machine-vision-ai)
+    2. [Voice Recognition (AI)](#voice-recognition-ai)
+    3. [PLC Programming (Beckoff)](#plc-programming-beckoff)
+    4. [Toolholder Design (Mechanical Design)](#toolholder-design-mechanical-design)
 2. [Roles](#roles)
 
 
